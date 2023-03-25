@@ -1,0 +1,5 @@
+sim_theta ,sim_phi ,temp_func ,phase_func  ,power_func ,x   ,y   ,z   ,array_num ,reguler ,file_name
+# 温度一定
+8192      ,      2 ,"0"       ,"0"         ,"1"        ,"x" ,"y" ,"0" ,       32 ,      1 ,"n<32>"
+8192      ,      2 ,"0"       ,"0"         ,"1"        ,"x" ,"y" ,"0" ,        4 ,      1 ,"n<4>"
+1024      ,      2 ,"0"       ,"-1/2*pi*x" ,"1"        ,"x" ,"y" ,"0" ,        8 ,      1 ,"t:<0>,p<30>"
